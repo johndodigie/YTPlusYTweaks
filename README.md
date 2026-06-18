@@ -270,8 +270,8 @@ Fill out an [issue form](https://github.com/fosterbarnes/YTPlusYTweaks/issues) w
 ## Supported Versions
 <ul>
     <li><strong>Recommended:</strong> <em>20.10.4</em></li>
-   <li><strong>Latest confirmed:</strong> <em>21.19.02</em></li>
-   <li><strong>Date tested:</strong> <em>May 16, 2026</em></li>
+   <li><strong>Latest confirmed:</strong> <em>21.24.3</em></li>
+   <li><strong>Date tested:</strong> <em>June 17, 2026</em></li>
    <li><strong>YouTube Plus:</strong> <em>5.2.1</em></li>
 </ul>
 
