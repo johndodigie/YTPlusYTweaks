@@ -26,6 +26,7 @@ Added tweaks:
 - [YTIcons](https://github.com/PoomSmart/YTIcons)
 - [YouGroupSettings](https://github.com/fosterbarnes/YouGroupSettings)
 - [Gonerino](https://github.com/castdrian/Gonerino)
+- [AutoFLEX](https://github.com/pwnless/AutoFLEX)
 
 Original repo: https://github.com/dayanch96/YTLite
 
@@ -183,6 +184,7 @@ Tweak Integration Flags:
     --enable-yougroupsettings    Settings (default: true)
     --enable-yticons             YTIcons (default: false)
     --enable-gonerino            Gonerino (default: false)
+    --enable-autoflex            AutoFLEX (default: false)
 
     --disable-youpip             YouPiP
     --disable-ytuhd              YTUHD
@@ -194,6 +196,7 @@ Tweak Integration Flags:
     --disable-yougroupsettings   YouGroupSettings
     --disable-yticons            YTIcons
     --disable-gonerino           Gonerino
+    --disable-autoflex           AutoFLEX
 
 Other Options:
     -h, --help                   Show this help message
@@ -344,6 +347,12 @@ Fill out an [issue form](https://github.com/fosterbarnes/YTPlusYTweaks/issues) w
   <p>Source code and additional information are available <a href="https://github.com/castdrian/Gonerino">in castdrian's GitHub repository</a>.</p>
 </details>
 
+<details>
+  <summary>AutoFLEX</summary>
+  <p>AutoFLEX is a tweak developed by <a href="https://github.com/pwnless">pwnless</a> that injects the <a href="https://github.com/FLEXTool/FLEX">FLEX</a> in-app debugger into sideloaded apps.</p>
+  <p>Source code and additional information are available <a href="https://github.com/pwnless/AutoFLEX">in pwnless's GitHub repository</a>.</p>
+</details>
+
 ## Credits
 Thank you to everyone that made this project possible! This project would not exist without the existing tools made by these developers. I really appreciate your work :)
 
@@ -354,6 +363,8 @@ Thank you to everyone that made this project possible! This project would not ex
 [therealFoxster](https://github.com/therealFoxster) - DontEatMyContent
 
 [castdrian](https://github.com/castdrian/Gonerino) - Gonerino
+
+[pwnless](https://github.com/pwnless/AutoFLEX) - AutoFLEX
 
 [theos](https://github.com/theos) - theos, SDKs
 
